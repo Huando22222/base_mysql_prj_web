@@ -1,0 +1,9 @@
+.modal-button {
+  display: flex;
+  align-items: center;
+}
+
+
+.launch-text {
+  white-space: nowrap; 
+}
